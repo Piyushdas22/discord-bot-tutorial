@@ -1,8 +1,8 @@
 let countChannel = {
-  total: "ID",
-  member: "ID",
-  bots: "ID",
-  serverID: "ID"
+  total: "723144037657215027",
+  member: "723144251684290583",
+  bots: "723144363533795389",
+  serverID: "712505384929198100"
 } 
 // Replace ID with the channel ID and server ID (for serverID)
 // Follow the instructions: https://youtu.be/UmY0Gsx3KlI?t=44
